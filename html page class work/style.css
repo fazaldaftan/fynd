@@ -1,0 +1,36 @@
+body{
+    margin:0px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    background-color: blueviolet;
+    padding: 20px;
+    border-radius:20px ;
+    /* margin: 5px; */
+}
+.left-side-item{
+    display: flex;
+    margin:5px;
+    /* background-color: white; */
+}
+.leftside{
+    margin: 10px;
+    background-color: azure;
+    padding:20px;
+    border-radius: 16px;
+}
+.right-side-item{
+    margin:5px;
+    margin: 10px;
+    background-color: azure;
+    padding:20px;
+    border-radius: 16px;
+}
+.rightside{
+    margin: 10px;
+    background-color: azure;
+    padding:20px;
+    border-radius: 16px;
+}
