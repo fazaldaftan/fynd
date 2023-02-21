@@ -1,0 +1,18 @@
+.body{
+    margin:0px;
+}
+#tab1{
+    border-collapse: collapse;
+    border-spacing: 3px;
+    border:1px solid green;
+ }
+ th{
+    border:1ps solid black;
+    color: blue;
+ }
+ tr{
+    border:1px solid black;
+ }
+ td{
+    border:1px solid black;
+ }
